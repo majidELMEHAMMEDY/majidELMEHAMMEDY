@@ -2,13 +2,12 @@
 
 Passionate about JavaScript, React.js and React Native . With a keen eye for detail and a passion for excellence, I'm dedicated to creating user-friendly web and mobile applications
 
+
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/elmehammedy-majid-202981112/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/elmehammedy-majid-202981112/#gh-dark-mode-only)
+
 
 ### Languages and Tools:
 
