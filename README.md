@@ -4,12 +4,11 @@ Passionate about JavaScript, React.js and React Native . With a keen eye for det
 
 
 ### Connect with me:
-[![website](./img/globe-light.svg)](https://majid-chi.vercel.app/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://majid-chi.vercel.app/#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://mourad.vercel.app#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://mourad.vercel.app#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/elmehammedy-majid-202981112/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/elmehammedy-majid-202981112/#gh-dark-mode-only)
-
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mourad-el-mehammedi-47725a17a#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mourad-el-mehammedi-47725a17a#gh-dark-mode-only)
 
 ### Languages and Tools:
 
