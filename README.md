@@ -4,6 +4,9 @@ Passionate about JavaScript, React.js and React Native . With a keen eye for det
 
 
 ### Connect with me:
+[![website](./img/globe-light.svg)](https://majid-chi.vercel.app/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://majid-chi.vercel.app/#gh-dark-mode-only)
+&nbsp;&nbsp;
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/elmehammedy-majid-202981112/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/elmehammedy-majid-202981112/#gh-dark-mode-only)
@@ -19,7 +22,7 @@ Passionate about JavaScript, React.js and React Native . With a keen eye for det
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GraphQL" width="26px" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" style="padding-right:10px;" />
+<img align="left" alt="React Native" width="30px" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
