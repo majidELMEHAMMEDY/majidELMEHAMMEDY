@@ -4,10 +4,8 @@ Passionate about JavaScript, React.js and React Native . With a keen eye for det
 
 
 ### Connect with me:
-[![website](./img/globe-light.svg)](https://allstackdev.tech/)
 [![website](./img/globe-dark.svg)](https://allstackdev.tech/)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://allstackdev.tech/y)
 [![website](./img/linkedin-dark.svg)](https://allstackdev.tech/)
 
 ### Languages and Tools:
