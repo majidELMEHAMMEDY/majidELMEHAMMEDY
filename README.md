@@ -4,7 +4,7 @@ Passionate about JavaScript, React.js, and React Native. With a keen eye for det
 
 ### Connect with me:
 [![website](https://img.shields.io/badge/Website-AllStackDev.tech-1e90ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://allstackdev.tech/)  
-[![linkedin](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allstackdev/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elmehammedy-majid-202981112/)
 
 ### Languages and Tools:
 
