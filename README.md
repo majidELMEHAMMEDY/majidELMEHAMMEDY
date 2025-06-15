@@ -74,8 +74,8 @@ Cross-platform app for freelancers to manage payments, invoices, and subscriptio
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=majid-dev&show_icons=true&theme=radical" width="450" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=majid-dev&theme=radical" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=majidELMEHAMMEDY&show_icons=true&theme=radical" width="450" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=majidELMEHAMMEDY&theme=radical" width="450" />
 </p>
 
 ---
